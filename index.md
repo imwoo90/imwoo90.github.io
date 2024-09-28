@@ -18,6 +18,7 @@ Welcome to our marriage cost documentation site. Here you'll find information ab
 - [Transportation](transportation.md)
 - [Honeymoon](honeymoon.md)
 - [Miscellaneous](miscellaneous.md)
+- [축의금 (Wedding Gifts)](gifts.md)
 
 ## Overview
 
