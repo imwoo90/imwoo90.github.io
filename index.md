@@ -9,12 +9,15 @@ Welcome to our marriage cost documentation site. Here you'll find information ab
 
 ## Categories
 
-- [Venue](#)
-- [Catering](#)
-- [Attire](#)
-- [Photography](#)
-- [Music](#)
-- [Decorations](#)
+- [Venue](venue.md)
+- [Catering](catering.md)
+- [Attire](attire.md)
+- [Photography](photography.md)
+- [Invitations](invitations.md)
+- [Rings](rings.md)
+- [Transportation](transportation.md)
+- [Honeymoon](honeymoon.md)
+- [Miscellaneous](miscellaneous.md)
 
 ## Overview
 
